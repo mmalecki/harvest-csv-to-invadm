@@ -1,0 +1,11 @@
+{
+  "name": "harvest-csv-to-invadm",
+  "version": "0.0.0",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "description": "Turn Harvest's \"Export all invoices\" CSV into an invadm repository",
+  "dependencies": {
+    "cb-system": "^2.0.0",
+    "csv": "^0.4.0",
+    "moment": "^2.8.3"
+  }
+}
